@@ -3,6 +3,7 @@ import numpy as np
 from sqlalchemy import create_engine
 import sys
 import random
+import matplotlib.pyplot as plt
 import pickle
 import warnings
 
